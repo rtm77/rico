@@ -383,8 +383,7 @@ Web de la empresa JL Seguridad: https://jlseguridad.com/curso-sucamec/
 		if (budy.includes(`7`)) {
                   reply(`*--NÚMERO CELULAR DE LA ASESORA--*\n\
 El numero de *atención(llamadas)* es \n\
-956988585  (Srta. Raquel) ó
-982988287  (Srta. Pilar)
+956988585  (Srta. Raquel)
 
 Horario de llamadas: 9:00AM - 7:00PM
 
@@ -413,7 +412,7 @@ Numero de cuenta para realizar el pago:
 https://drive.google.com/file/d/1jjv6SKzhjFcfkcuLk4G3o5tzVIrS99f0/view
 Despues de haber realizado el pago enviar el voucher al  siguiente número http://Wa.me/+51956988585
 (956988585) le pedirá una foto de su dni para poder registrarle en el sistema.
-*Ingresa otro número para ayudarte a resolver tus dudas*  `)
+*Gracias por confiar en nosotros. JL Seguridad|Tu Protección es Nuestra Prioridad *  `)
 			
                   }			
 					
